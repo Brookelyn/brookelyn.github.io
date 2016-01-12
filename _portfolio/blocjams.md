@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bloc Jams
+date: 2016-01-04
 thumbnail-path: "img/balza_blocjams.png"
 short-description: Bloc Jams is a clone of the single-page music-streaming app rdio and is used by Bloc to introduce students to the fundamentals of web design.
 

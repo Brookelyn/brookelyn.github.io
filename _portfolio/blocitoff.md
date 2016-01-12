@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blocitoff
+date: 2016-01-05
 thumbnail-path: "img/balza_tasklist.png"
 short-description: This to-do list uses the Firebase API and Angular to create tasks with an expiration date.
 
