@@ -4,7 +4,7 @@ title: Going live with my portfolio
 ---
 Well, I've finally set up my portfolio and made it live!
 
-There's still quite a bit that I'd like to do to the template that Bloc provides its students with at this stage of the course. 
+There's still quite a bit that I'd like to do to the template that Bloc provides its students with at this stage of the course - including personalising it a bit more. 
 
 Events seem to be conspiring against me, however, as there have been some quite depressing changes at my paying gig that mean I need to get my CV and portfolio site sorted quite quickly so that I can start looking for a job in development.
 
