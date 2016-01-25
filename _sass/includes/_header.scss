@@ -1,12 +1,15 @@
 .site-header {
   @extend %padding-small;
-  background: $brand-color;
+  background: url('/img/Firework-galaxy-NASA.jpg');
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
   border-top:5px solid $header-desc-background-color;
   display: inline-block;
   width: 100%;
 
   a {
-    color: $header-link-color;
+    color: #FFF;
   }
 
   .avatar {
@@ -42,7 +45,7 @@
       ul {
         display: inline-block;
         float: left;
-        padding-top: $padding-small;
+        padding-top: $padding-x-small;
         text-align: left;
         width: 100%;
       }

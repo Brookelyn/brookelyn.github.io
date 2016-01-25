@@ -6,27 +6,30 @@
   background-size: cover;
   font-size: 1.2em;
   text-align: center;
-  color: $text-color;
+  color: #FFF;
   background-position:center center;
+  
   .site-title {
     display:block;
     width:100%;
     a {
       font-size:0.8em;
       text-transform: uppercase;
-      color:#d8d8d8;
+      color: #FFF;
     }
   }
+
   ul {
     li {
       list-style-type: none;
       display: inline-block;
       margin:0 0.5em;
       a {
-        color: $link-color;
+        color: #FFF;
       }
     }
   }
+
   h1 {
     margin-bottom:0.25em;
     display:block;
@@ -34,7 +37,7 @@
   .divider {
     width:80px;
     height:3px;
-    background-color:$border-color;
+    background-color: #FFF;
     display:block;
     margin:1.5em auto;
   }
@@ -42,6 +45,7 @@
 .call-out p:last-child {
   margin-bottom: 0;
 }
+
 // Post listing
 .posts {
   @extend %padding-header;
