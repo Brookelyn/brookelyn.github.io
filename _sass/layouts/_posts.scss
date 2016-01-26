@@ -5,6 +5,8 @@ article,
   width: 100%;
 }
 article {
+  margin-top: 3%;
+
   header {
     margin-bottom: 6%;
     text-align: center;
@@ -42,8 +44,8 @@ header {
   header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
-    background-position:center center;
-    margin-bottom: 0;
+    background-position: center center;
+    margin-bottom: 2em;
     padding: $padding-large/2.8 $padding-large;
     .meta {
       color: rgba($feature-image-text-color, .7);
@@ -51,6 +53,7 @@ header {
   }
   .post-content {
     @extend %padding-regular;
+    margin-top: 3%;
   }
 }
 
