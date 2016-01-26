@@ -1,6 +1,6 @@
 .site-header {
   @extend %padding-small;
-  background: url('/img/Firework-galaxy-NASA.jpg');
+  background: url('/img/Solar-flare-NASA.jpg');
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -25,6 +25,15 @@
     font-weight: bold;
     font-size: 1em;
     line-height: 1.5;
+
+    .fire {
+      text-shadow:
+       
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+    }
   }
 
   .site-nav {

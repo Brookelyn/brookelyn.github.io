@@ -10,8 +10,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h6>GOODNESS, GRACIOUS, GREAT</h6>
-     <h1>BALZA FIRE</h1>
+     <h6>Goodness, gracious, great</h6>
+     <h1 class="fire">BALZA FIRE</h1>
      <p>I'm a self-taught front-end developer who wants to make the web a more beautiful and intuitive place.</p>
   header_text_feature_image: 
   footer_text: >
@@ -54,7 +54,8 @@ theme:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
+  google_fonts: "Raleway:400,900,600|Merriweather:700"
+
 
 # PAGINATION
 paginate: 100
