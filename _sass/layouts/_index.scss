@@ -128,16 +128,43 @@
   
 }
 // Pagination
-.pagination .button {
-  margin: 0 1.5em;
-  i {
-    vertical-align: middle;
+// .pagination .button {
+//   margin: 0 1.5em;
+//   i {
+//     vertical-align: middle;
+//   }
+// }
+// .pagination {
+//   padding: $padding-small $padding-large 0 $padding-large;
+//   text-align: center;
+// }
+// .center {
+//   text-align: center;
+// }
+
+.blog {
+  list-style: none;
+
+  .blogging {
+    margin-bottom: 12%;
+    border-bottom: 1px solid #000;
+
+    header {
+      margin-bottom: 3%;
+    }
+
+    h1 {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+
+    .meta {
+      text-align: left;  
+    }
   }
 }
-.pagination {
-  padding: $padding-small $padding-large 0 $padding-large;
-  text-align: center;
-}
-.center {
+
+.more {
+  clear: both;
   text-align: center;
 }
