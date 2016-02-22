@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloctime&#58 Tracking tasks
+title: Bloctime - Tracking tasks
 ---
 The next and final step in the Bloctime project - bar the extra credit stories - is to allow the user to add and keep track of the tasks they're using the app to time.
 
