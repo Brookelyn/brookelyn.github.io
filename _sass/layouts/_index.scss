@@ -81,6 +81,7 @@
   display: block;
   float: left;
   width: 100%;
+
   .project {
     display: block;
     float: left;
@@ -167,4 +168,15 @@
 .more {
   clear: both;
   text-align: center;
+  padding-top: 2em;
+
+  h3 {
+    color: #f2ccff;
+  }
 }
+
+.link-border {
+  border-bottom: 1px solid #f2ccff;
+  padding-top: 2em;
+}
+

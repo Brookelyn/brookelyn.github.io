@@ -88,7 +88,7 @@ potato.filter('pubDate', function() {
 
 As you can see, I'm again pulling in a string that I need to split into different parts. 
 
-Most of the numbers in the string are fine to remain as strings as far as JavaScript is concerned - there's no reason, for example, that 2016 needs to be recognised as integers instead of a string. To diplay the month, however, I felt it was easier to convert the string into integers before converting the display to a three-letter string for the month (for example, 'Feb').
+Most of the numbers in the string are fine to remain as strings as far as JavaScript is concerned - there's no reason, for example, that 2016 needs to be recognised as integers instead of a string. To display the month, however, I felt it was easier to convert the string into integers before converting the display to a three-letter string for the month (for example, 'Feb').
 
 My filter is also removing any '0's for published times before 10:00, and adding a suffix to the date in order to achieve '22nd' instead of just '22'.
 

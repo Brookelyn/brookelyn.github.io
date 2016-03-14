@@ -9,4 +9,4 @@ One Monday morning in June 2014, I walked into my full-time, fairly well-paid jo
 
 And thus began my dive down the coding rabbit hole - and now there's no going back.
 
-I can't wait until someone pays me to figure out why a div is being pushed out of line, or to spend hours making a particular element look just *so*. I love creating beautifully simple designs that are a pleasure to use and I really do believe that there is no excuse for poor design.
+I can't wait until someone pays me to figure out why a div is being pushed out of line, or to spend hours making a particular element look just *so*. I love creating beautifully simple designs that are a pleasure to use.
